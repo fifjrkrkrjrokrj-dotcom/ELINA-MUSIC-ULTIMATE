@@ -19,7 +19,7 @@ psutil
 py-tgcalls==0.9.7
 pykeyboard
 python-dotenv
-python-telegram-bot==22.7
+python-telegram-bot==22.8
 pyyaml
 requests
 speedtest-cli
